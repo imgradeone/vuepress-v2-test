@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-v2-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/imgradeone/vuepress-v2-test.git",
+  "author": "imgradeone - 一年级么么哒 <imgradeone@outlook.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.18"
+  }
+}
